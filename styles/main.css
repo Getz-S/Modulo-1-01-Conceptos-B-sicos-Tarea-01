@@ -1,0 +1,15 @@
+body{
+    background: #f3f4f5;
+    margin: 100px;
+}
+header{
+    color: black;
+    text-align: center;
+    font-style: Arial;
+    font-size: 24px;
+}
+#content{
+    font-style: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
